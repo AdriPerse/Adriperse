@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm Adriano Persegani
+### Hello there! 👋 I'm Adriano
 
 - 🔭 I'm a Data Scientist and currently work as a Data Science Teaching Assistant at [Construtor Learning](https://learning.constructor.org/).
 - 🎓 I'm a proud graduate of the CONSTRUCTOR Data Science Bootcamp, where I honed my skills in Python, Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning, Natural Language Processing, SQL, MongoDB, and MLOps.
