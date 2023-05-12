@@ -1,6 +1,4 @@
-### Hello there! 👋 I'm Adriano
-
-[![Linkedin](https://img.shields.io/badge/-Adriano%20Persegani%20Daguzan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-persegani/)](https://www.linkedin.com/in/adriano-persegani/)
+### Hello there! 👋 I'm [![Linkedin](https://img.shields.io/badge/-Adriano%20Persegani%20Daguzan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-persegani/)](https://www.linkedin.com/in/adriano-persegani/)
 
 
 - 🔭 I'm a Data Scientist and currently work as a Data Science Teaching Assistant at [Construtor Learning](https://learning.constructor.org/).
