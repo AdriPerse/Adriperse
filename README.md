@@ -1,5 +1,8 @@
 ### Hello there! 👋 I'm Adriano
 
+[![Linkedin](https://img.shields.io/badge/-Adriano%20Persegani%20Daguzan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-persegani/)](https://www.linkedin.com/in/adriano-persegani/)
+
+
 - 🔭 I'm a Data Scientist and currently work as a Data Science Teaching Assistant at [Construtor Learning](https://learning.constructor.org/).
 - 🎓 I'm a proud graduate of the CONSTRUCTOR Data Science Bootcamp, where I honed my skills in Python, Statistics and Experimental Design, Data Visualization, Machine Learning, Deep Learning, Natural Language Processing, SQL, MongoDB, and MLOps.
 - 📚 My background is in Management, specifically within the Hospitality sector.
